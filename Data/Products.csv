@@ -1,0 +1,13 @@
+ProductID,ProductName,Category,UnitCost
+P001,Wireless Mouse,Accessories,8.5
+P002,Mechanical Keyboard,Accessories,22.0
+P003,USB-C Hub,Accessories,12.0
+P004,Laptop Stand,Office,15.0
+P005,Webcam HD,Electronics,18.0
+P006,Noise Cancelling Headphones,Electronics,35.0
+P007,Desk Lamp,Office,9.0
+P008,Monitor 24in,Electronics,65.0
+P009,Bluetooth Speaker,Electronics,20.0
+P010,Ergonomic Chair Cushion,Office,6.0
+P011,Phone Charger,Accessories,4.5
+P012,Cable Organizer,Accessories,3.0
